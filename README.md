@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarainapur
 - 👀 I’m interested in FullStack Development & coding
-- 🌱 I’m currently learning PG Diploma in Full Stack Development from IIITB Bangalore
+- 🌱 I’m currently pursuing PG Diploma in Full Stack Development from IIITB Bangalore
 - 📫 How to reach me +91-8879078073
 
 <!---
