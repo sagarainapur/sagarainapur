@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarainapur
 - 👀 I’m interested in DevOps tools and technologies, AWS is my favourite cloud platform
-- 🌱 I’m currently pursuing Post Graduate Diploma in DevOps from IIIT Bangalore
+- 🌱 I have completed my Master's in Computer Science with Merit for my Thesis
 - 📫 How to reach me +91-8879078073
 
 <!---
