@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagarainapur
-- 👀 I’m interested in DevOps, FullStack Development & coding
+- 👀 I’m interested in DevOps tools and technologies, AWS is my favourite cloud platform
 - 🌱 I’m currently pursuing Post Graduate Diploma in DevOps from IIIT Bangalore
 - 📫 How to reach me +91-8879078073
 
